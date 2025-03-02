@@ -21,8 +21,10 @@ console.log(currentTime);
 const div = document.createElement("div");
 div.innerHTML = `
 <div>
-<pclass="text-2xl font-">${currentDayName}</pclass=>
+<p class="text-2xl font-">${currentDayName} </p>
 <h1  class="text-2xl font-medium">${currentTime}</h1>
-</div>                          
+</div>
+   
+                           
 `;
 document.getElementById("date-weak-section").appendChild(div);
