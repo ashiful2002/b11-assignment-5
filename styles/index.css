@@ -4,6 +4,9 @@
 * {
     font-family: "Poppins", sans-serif;
 }
+body {
+    transition: background-color 0.3s ease-in-out;
+}
 
 :root {
     --primary-color: #3752FD;
@@ -30,3 +33,9 @@
 .theme5 {
     background-color: #050505e7;
 }
+
+.theme-1 { background-color: #3498db; } /* Blue */
+.theme-2 { background-color: #e74c3c; } /* Red */
+.theme-3 { background-color: #2ecc71; } /* Green */
+.theme-4 { background-color: #f39c12; } /* Orange */
+.theme-5 { background-color: #9b59b6; } /* Purple */
