@@ -30,3 +30,10 @@ document.getElementById("clear-history").addEventListener("click", function () {
 
 
 
+// echo "# b11-assignment-5" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/ashiful2002/b11-assignment-5.git
+// git push -u origin main
